@@ -1,2 +1,6 @@
 # 24bh
-Blacket hack also client 
+Blacket 
+More robust control
+Internal bots and commands 
+Reputation history 
+Dynamic pack opening 
